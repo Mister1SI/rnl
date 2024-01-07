@@ -1,2 +1,2 @@
 gcc main.c -o main
-./main
+./main $1 $2
